@@ -1,2 +1,2 @@
 # AvitoTesting
-Doc of the Manual Testing https://www.avito.ru/
+Docs of the Manual Testing https://www.avito.ru/
